@@ -1,0 +1,7 @@
+Create a new file named requirements.txt and add:
+streamlit 
+transformers 
+torch 
+Save the file.
+If the libraries need to be installed again on another computer, use:
+python -m pip install -r requirements.txt
